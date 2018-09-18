@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource {
     
-    var data = ["Name-Satyam Saluja","Branch-Computer Science Engineering 2015-1019 batch(presently in 3rd year.)","Address-plot no 89 Vishya ckb332 colony gurgarva Ujjain,BWWCC TTivart,India.Pin code-4433221(Near the MKB Yasvrtiu Pandrat skilltyi,Ahead of Adrim Ashram colony Block 10)"]
+    var data = ["Name-Satyam Saluja","Branch-Computer Science Engineering 2015-1019 batch(presently in 4th year.)","Address-plot-no 89 Vishya ckb332 colony gurgarva Ujjain,BWWCC TTivart,India.Pin code-4433221(Near the MKB Yasvrtiu Pandrat skilltyi,Ahead of Adrim Ashram colony Block 10)"]
     
     @IBOutlet weak var mytableView: UITableView!
     override func viewDidLoad() {
